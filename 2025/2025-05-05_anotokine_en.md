@@ -1,4 +1,4 @@
-## “Ano toki ne” — The Moment Speech Has Already Begun
+## "Ano toki ne" — The Moment Speech Has Already Begun
 
 ### Date: 2025-05-05
 
@@ -8,13 +8,13 @@
 
 ### Summary
 
-Inspired by the AEAD entry “Ano toki ne,” this note revisits the power of incomplete expressions that still function as full utterances. The phrase “Ano toki ne” acts as a doorway into shared memories—proof that language often begins before any formal grammar appears.
+Inspired by the AEAD entry "Ano toki ne," this note revisits the power of incomplete expressions that still function as full utterances. The phrase “Ano toki ne” acts as a doorway into shared memories—proof that language often begins before any formal grammar appears.
 
 ---
 
 ### Body
 
-“Ano toki ne.”
+"Ano toki ne."
 
 Just that, and the story begins.
 
@@ -24,19 +24,19 @@ When I recorded this expression in the AEAD (An expression a day) project—a di
 
 Consider this exchange:
 
-> A: “Did you get hurt?”  
-> B: “Yeah, at the station.”  
-> A: “Oh, that time, right?”
+> A: "Did you get hurt?"  
+> B: "Yeah, at the station."  
+> A: "Oh, that time, right?"
 
-A’s “Oh, that time, right?” functions as more than recognition. It’s a cue of recollection, empathy, and an invitation to share a memory. The listener is not passive, but an active co-narrator accessing the shared past.
+A's "Oh, that time, right?" functions as more than recognition. It's a cue of recollection, empathy, and an invitation to share a memory. The listener is not passive, but an active co-narrator accessing the shared past.
 
 Such expressions are nearly impossible to teach in advance in a classroom setting. But when you hear them, you get them—or try to. Their meaning is carried not by grammar, but by **relationship, silence, and feeling**.
 
-“Ano toki ne” is a moment when language rises out of silence.
+"Ano toki ne" is a moment when language rises out of silence.
 
 Expressions like this often fall outside traditional linguistic description. That’s why establishing a category like immediate grammar and recording such utterances holds value, especially in language education.
 
-To explain why “Ano toki ne” is a form of immediate grammar, we can summarize its characteristics as follows:
+To explain why "Ano toki ne" is a form of immediate grammar, we can summarize its characteristics as follows:
 
 - **Incomplete as a sentence**: “Ano toki ne” stops short, yet the utterance is understood.
 - **Evokes shared memory**: It accesses not only the speaker’s recollection but that of the listener.
@@ -49,5 +49,5 @@ This is a perfect example of language driven not by structure, but by urgency, m
 
 ### Notes, Tags, Related Projects
 
-- Related project: AEAD No.390 “Ano toki ne”  
+- Related project: AEAD No.390 "Ano toki ne"
 - Tags: #immediategrammar #recollection #narrativeentry #Japaneseeducation #incompletesentences
