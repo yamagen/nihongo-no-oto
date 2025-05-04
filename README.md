@@ -1,6 +1,6 @@
 # Nihongo Notes / Nihongo no oto
 
-Last change: 2025/05/04-10:34:55.
+Last change: 2025/05/04-10:41:15.
 
 _A reflective notebook on the Japanese language_
 
@@ -13,13 +13,9 @@ It draws from translation work (_Ise Monogatari_, _Tosa Nikki_), the AEAD projec
 
 ---
 
-## 📂 To view the full index of entries, see → [index.md](./index.md)
+## 📂 To view the full index of entries
 
-## Structure
-
-- `2025-05-04_ikura-nandemo.md` — On the unteachable expression “Ikura nande mo...”
-- One Markdown file per entry
-- Written in an essay-research hybrid style
+- [index.md](./index.md)
 
 ## Related Projects
 
