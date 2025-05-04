@@ -1,6 +1,6 @@
 # Nihongo Notes / Nihongo no oto
 
-Last change: 2025/05/04-09:14:50.
+Last change: 2025/05/04-10:34:55.
 
 _A reflective notebook on the Japanese language_
 
@@ -10,6 +10,10 @@ It draws from translation work (_Ise Monogatari_, _Tosa Nikki_), the AEAD projec
 > Some words are too immediate to be taught.  
 > Some expressions only appear in the moment.  
 > This is a notebook for remembering those sounds of Japanese.
+
+---
+
+## 📂 To view the full index of entries, see → [index.md](./index.md)
 
 ## Structure
 
