@@ -31,7 +31,7 @@ _日本語ということばに耳を澄ます、反省的ノート_
 
 ## 著者
 
-- 山本浩史（Hilofumi Yamamoto）[@hilofumi](https://yamagen.github.io)  
+- 山元啓史（Hilofumi Yamamoto）[@hilofumi](https://yamagen.github.io)  
   日本語教育と言語研究に携わる個人によって運営されています。  
   本リポジトリの内容は、適切なクレジットを明記すれば、学術・教育目的で引用可能です。
 
