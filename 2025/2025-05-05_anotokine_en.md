@@ -18,9 +18,9 @@ Inspired by the AEAD entry “Ano toki ne,” this note revisits the power of in
 
 Just that, and the story begins.
 
-It's not a complete sentence. There's no subject, no verb. Just a simple phrase that hints at a past event, softly uttered. And yet, the listener understands—*“Ah, they’re about to bring up that moment.”*
+It's not a complete sentence. There’s no subject, no verb. Just a small phrase evoking a past event, quietly spoken. And yet, the listener understands: “They’re about to talk about that moment.”
 
-While working on AEAD (An expression a day), a dictionary that records spontaneous spoken expressions based on immediate grammar, I was struck again by the expressive power of such fragments. Even without complete syntax, words can emerge as long as there is a **shared context, emotion, and relationship**.
+When I recorded this expression in the AEAD (An expression a day) project—a dictionary focused on immediate grammar—I was once again struck by how language can rise from context, relationship, and emotion, even without fully-formed syntax.
 
 Consider this exchange:
 
@@ -28,19 +28,22 @@ Consider this exchange:
 > B: “Yeah, at the station.”  
 > A: “Oh, that time, right?”
 
-A’s “Oh, that time, right?” is more than acknowledgment. It’s a memory check, a gesture of empathy, and an invitation to reminisce. The listener is not a passive recipient, but an active retriever of shared experience.
+A’s “Oh, that time, right?” functions as more than recognition. It’s a cue of recollection, empathy, and an invitation to share a memory. The listener is not passive, but an active co-narrator accessing the shared past.
 
-This kind of expression is hard to teach explicitly in a classroom. And yet, **once you hear it, you know**—or at least you try to. It's not grammar but *silence, shared history,* and *intonation* that carry the meaning.
+Such expressions are nearly impossible to teach in advance in a classroom setting. But when you hear them, you get them—or try to. Their meaning is carried not by grammar, but by **relationship, silence, and feeling**.
 
-The AEAD entry captured this expression as:
+“Ano toki ne” is a moment when language rises out of silence.
 
-> Ano toki ne  
-> — So back then, you know...  
-> — Adjusted: I remembered what happened back then.
+Expressions like this often fall outside traditional linguistic description. That’s why establishing a category like immediate grammar and recording such utterances holds value, especially in language education.
 
-The story has already begun—before the words are fully spoken.
+To explain why “Ano toki ne” is a form of immediate grammar, we can summarize its characteristics as follows:
 
-“Ano toki ne” is language rising out of silence, in the moment.
+- **Incomplete as a sentence**: “Ano toki ne” stops short, yet the utterance is understood.
+- **Evokes shared memory**: It accesses not only the speaker’s recollection but that of the listener.
+- **Rises through intonation**: Even without continuation, empathy or recognition can arise.
+- **Emotion precedes grammar**: Feelings come out before any structured syntax is formed.
+
+This is a perfect example of language driven not by structure, but by urgency, memory, and connection—in short, the essence of immediate grammar.
 
 ---
 
