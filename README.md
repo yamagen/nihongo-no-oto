@@ -1,6 +1,6 @@
 # Nihongo Notes / Nihongo no oto
 
-Last change: 2025/05/04-08:55:14.
+Last change: 2025/05/04-09:14:50.
 
 _A reflective notebook on the Japanese language_
 
@@ -25,12 +25,15 @@ It draws from translation work (_Ise Monogatari_, _Tosa Nikki_), the AEAD projec
 
 ## Author
 
-This project is maintained by a Japanese language educator and researcher.  
-Essays may be cited for academic and educational purposes with attribution.
+- Hilofumi Yamamoto [@hilofumi](yamagen.github.io)
+  This project is maintained by a Japanese language educator and researcher.  
+  Essays may be cited for academic and educational purposes with attribution.
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+This repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
