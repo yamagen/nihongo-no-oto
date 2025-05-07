@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/05/07-19:53:08.
+Last change: 2025/05/07-21:24:38.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -13,7 +13,7 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
   [JA](2025/2025-05-07_arekara2_ja.md)
 - 2025-05-06: "Arekara" - "Hey, yesterday—after that, what happened?"
   [EN](2025/2025-05-06_arekara_en.md)
-  [JA](2025/2025-05-06_arekara_en.md)
+  [JA](2025/2025-05-06_arekara_ja.md)
 - 2025-05-05: "Ano toki ne" - The Moment Speech Has Already Begun
   [EN](2025/2025-05-05_anotokine_en.md)
   [JA](2025/2025-05-05_anotokine_ja.md)
