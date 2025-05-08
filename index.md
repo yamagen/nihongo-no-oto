@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/05/08-22:01:39.
+Last change: 2025/05/08-22:38:39.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -8,6 +8,12 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 
 ## 📅 Entries
 
+- 2025-05-10: "Something Feels Off": My Entry into the Ise Monogatari
+  [EN](2025/2025-05-10_nankahen_en.md)
+  [JA](2025/2025-05-10_nankahen_ja.md)
+- 2025-05-09: "Historical Context" Doesn't Overwrite the Human Heart
+  [EN](2025/2025-05-09_jidaihaikei_en.md)
+  [JA](2025/2025-05-09_jidaihaikei_ja.md)
 - 2025-05-08: "Thus and thus, I think": The Silent Success of the Third Son
   [EN](2025/2025-05-08_tsukumogami_en.md)
   [JA](2025/2025-05-08_tsukumogami_ja.md)
