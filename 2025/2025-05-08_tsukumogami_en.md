@@ -8,7 +8,7 @@
 
 ### Summary
 
-In one episode of the _Ise Monogatari_, a single line—"Thus and thus, I think"—sets everything in motion. Without poetry, without elaboration, a nameless third son silently orchestrates an encounter between his mother and the narrator, Ariwara no Narihira. What follows is a delicate play of embarrassment, misreading, and poetic cover-up. This entry explores how silence, misdirection, and minimal language function as narrative force—and how Narihira, caught in the act of being duped, redeems himself through poetic performance.
+In one episode of the _Ise Monogatari_ Stage 63, a single line—"Thus and thus, I think"—sets everything in motion. Without poetry, without elaboration, a nameless third son silently orchestrates an encounter between his mother and the narrator, Ariwara no Narihira. What follows is a delicate play of embarrassment, misreading, and poetic cover-up. This entry explores how silence, misdirection, and minimal language function as narrative force—and how Narihira, caught in the act of being duped, redeems himself through poetic performance.
 
 ---
 
