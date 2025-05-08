@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/05/07-21:24:38.
+Last change: 2025/05/08-22:01:39.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -8,6 +8,9 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 
 ## 📅 Entries
 
+- 2025-05-08: "Thus and thus, I think": The Silent Success of the Third Son
+  [EN](2025/2025-05-08_tsukumogami_en.md)
+  [JA](2025/2025-05-08_tsukumogami_ja.md)
 - 2025-05-07: "Arekara 2" - You Can Diagram It in English, But Not in Japanese
   [EN](2025/2025-05-07_arekara2_en.md)
   [JA](2025/2025-05-07_arekara2_ja.md)
