@@ -46,9 +46,9 @@ Though each form appears minimal, they function as grammatical and stylistic anc
 
 ### Poetic Density through Single-Hiragana Words
 
-Consider the famous _Kokinshū_ poem by Mibu no Tadamine:
+Consider the famous poem by Ono no Komachi:
 
-> _wa ga mi yo ni furu nagame se shi ma ni_
+> _hana no iro wa utsuri ni keri na itazura ni wa ga mi yo ni furu nagame se shi ma ni_
 
 Here, the one-character words _se_, _shi_, _ma_, and _ni_ follow in sequence, each fulfilling a grammatical role—auxiliary, conjunctive, case marking, etc. The compactness allows the poem's meaning to ride the wave of sound, creating multilayered resonance in the reader's mind.
 
