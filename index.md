@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/05/08-22:38:39.
+Last change: 2025/05/09-11:11:41.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -8,6 +8,12 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 
 ## 📅 Entries
 
+- 2025-05-12: "Primordium": The Meaning and Function of Single-Hiragana Words
+  [EN](2025/2025-05-12_primordium_en.md)
+  [JA](2025/2025-05-12_primordium_ja.md)
+- 2025-05-11: "sa si su se so": The Meaning and Function of Single-Hiragana Words
+  [EN](2025/2025-05-11_sasisuseso_en.md)
+  [JA](2025/2025-05-11_sasisuseso_ja.md)
 - 2025-05-10: "Something Feels Off": My Entry into the Ise Monogatari
   [EN](2025/2025-05-10_nankahen_en.md)
   [JA](2025/2025-05-10_nankahen_ja.md)
