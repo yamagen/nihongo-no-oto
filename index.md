@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/05/16-12:04:32.
+Last change: 2025/05/16-19:36:55.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -8,6 +8,9 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 
 ## 📅 Entries
 
+- 2025-05-17: "Ware isn't me": Speaking as if it was said, even though it wasn't
+  [EN](2025/2025-05-17_wareutanoyaunaru_en.md)
+  [JA](2025/2025-05-17_wareutanoyaunaru_ja.md)
 - 2025-05-16: "Ureshii": A Word Meant for No One?
   [EN](2025/2025-05-16_adj_selftalk_en.md)
   [JA](2025/2025-05-16_adj_selftalk_ja.md)
