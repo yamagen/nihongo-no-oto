@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/05/16-19:36:55.
+Last change: 2025/05/17-17:10:22.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -8,6 +8,12 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 
 ## 📅 Entries
 
+- 2025-05-19: "Configuration": Language and Literature Studies as an Ecosystem
+  [EN](2025/2025-05-19_configecosystem_en.md)
+  [JA](2025/2025-05-19_configecosystem_ja.md)
+- 2025-05-18: "Eco": Ecosystem for Language Research
+  [EN](2025/2025-05-18_ecosystemoflangresearch_en.md)
+  [JA](2025/2025-05-18_ecosystemoflangresearch_ja.md)
 - 2025-05-17: "Ware isn't me": Speaking as if it was said, even though it wasn't
   [EN](2025/2025-05-17_wareutanoyaunaru_en.md)
   [JA](2025/2025-05-17_wareutanoyaunaru_ja.md)
