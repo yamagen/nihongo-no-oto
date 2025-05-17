@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/05/17-17:10:22.
+Last change: 2025/05/17-18:57:37.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -8,6 +8,9 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 
 ## 📅 Entries
 
+- 2025-05-20: "Unspoken elements": What Is Unspoken Can Still Be Understood
+  [EN](2025/2025-05-20_unspokenandunderstand_en.md)
+  [JA](2025/2025-05-20_unspokenandunderstand_ja.md)
 - 2025-05-19: "Configuration": Language and Literature Studies as an Ecosystem
   [EN](2025/2025-05-19_configecosystem_en.md)
   [JA](2025/2025-05-19_configecosystem_ja.md)
