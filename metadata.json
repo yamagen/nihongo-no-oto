@@ -1,0 +1,28 @@
+{
+  "upload_type": "dataset",
+  "publication_type": "article",
+  "title": "Nihongo Notes – Sounds of Japanese, Vol.1",
+  "creators": [
+    {
+      "name": "Yamamoto, Hilo",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "description": "Nihongo Notes is a bilingual series of short reflections on Japanese expressions, grammar, and linguistic structures. This volume (Vol.1) compiles the first 14 entries written between April and May 2025. Each entry explores everyday utterances, classical literary phrasing, or poetic ambiguity, with a focus on what is unspoken and how meaning is structured across immediate grammar.\n\nThis archive includes Markdown files in both Japanese and English, with a unified index.",
+  "publication_date": "2025-06-01",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "Japanese",
+    "linguistics",
+    "gloss",
+    "immediate grammar",
+    "literary expression",
+    "translation",
+    "digital philology",
+    "annotation"
+  ],
+  "version": "1.0",
+  "language": "eng",
+  "notes": "Prepared for public release via Zenodo. Files include bilingual Markdown entries and index."
+}
