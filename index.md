@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/05/19-15:23:12.
+Last change: 2025/06/07-15:16:14.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -8,6 +8,9 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 
 ## 📅 Entries
 
+- No.16, 2025-06-07: "Zenbu ga zenbu": Not everything, you know
+  [EN](2025/2025-06-07_zenbugazenbu_en.md)
+  [JA](2025/2025-06-07_zenbugazenbu_ja.md)
 - No.15, 2025-05-21: "Unspoken space": What Is Unspoken Can Still Be Understood
   [EN](2025/2025-05-21_unspokenspace_en.md)
   [JA](2025/2025-05-21_unspokenspace_ja.md)
