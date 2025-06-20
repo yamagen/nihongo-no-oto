@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/06/20-20:42:48.
+Last change: 2025/06/20-21:21:14.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese
 expressions, grammar, and teaching.
@@ -8,6 +8,10 @@ expressions, grammar, and teaching.
 ---
 
 ## 📅 Entries
+
+- No.19, 2025-06-21: "AI": Writing in the Age of AI
+  [EN](2025/2025-06-21_ai_production_en.md)
+  [JA](2025/2025-06-21_ai_production_ja.md)
 
 - No.18, 2025-06-20: "The Difficulty of Glossing": Guidelines
   [EN](2025/2025-06-20_gloss_difficulty_en.md)
