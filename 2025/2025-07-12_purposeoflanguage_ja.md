@@ -2,7 +2,7 @@
 
 ### 日付: 2025-07-12
 
-### Last change: 2025/07/12-15:24:41.
+### Last change: 2025/07/12-16:14:28.
 
 ---
 
@@ -40,25 +40,16 @@
 
 この経験は、ことばの本質を「情報伝達」よりもむしろ「関係の調整と演出」に見出す視点の小さな原点でもあった。
 
-ポーランドの人類学者マリノフスキは1923年、『The Problem of Meaning in Primitive Languages』の中で「交感的言語使用（phatic
-communion）」を提唱し、内容の希薄な挨拶や応答が関係維持の重要な役割を持つと述べた。
+ポーランドの人類学者マリノフスキは、ことばには思考や感情を表すだけではなく、人と人とのつながりを作る役割があると述べている。彼はこれを「交感的言語使用」と呼び、たとえ内容のない挨拶や相づちであっても、それが関係を支える大事な働きを持つと考えた（Malinowski
+1923）。
 
-> "There is clearly another function of language which is neither the expression of thought, nor the expression of emotions, but a function serving to establish
-> bonds of union between people."  
-> (_The Problem of Meaning in Primitive Languages_, 1923, p.315)
+ロマン・ヤコブソンは、ことばには複数の働きがあると整理し、その中に「ファティック機能」と呼ばれるものを挙げている。これは、会話を始めたり続けたり終わらせたりするための呼びかけや確認で、「もしもし」「聞こえますか」「うんうん」といった表現がその例にあたる（Jakobson
+1960）。
 
-ロマン・ヤコブソンは1960年の『Closing Statement: Linguistics and Poetics』で、言語の6つの機能を整理し、その中に「ファティック（交感的）機能」を位置づけた。
+さらにエーリッヒ・グーフマンは、人と話すときに私たちはいつも「自分の立場や面目を守るための演技」をしていると指摘した。会話は単に情報をやりとりするものではなく、相手との間で自分の顔を保つために行われる一種の儀式でもある（Goffman
+1967）。
 
-> Communication serves to establish, prolong, or discontinue communication, to check whether the channel works ("Hello, do you hear me?"), to attract the
-> attention of the interlocutor or to confirm continued attention ("Are you listening?" or "Uh-huh").  
-> (_Closing Statement_, 1960)
-
-さらにエーリッヒ・グーフマンは『Interaction Ritual』で、人間の言語行為が体面を守るための絶えざる演出であることを指摘した。
-
-> "Face-work serves to counteract 'incidents' — events whose effective symbolic implications threaten face."  
-> (_Interaction Ritual_, 1967)
-
-これらの議論をふまえると、言語を学ぶことは単なる情報伝達の技術ではない。  
+これらの考えをふまえると、言語を学ぶことは単なる情報伝達の技術ではない。  
 むしろ、他者と関係を結び直しながら、自分がどのようにそこにいるかを示す技術である。
 
 「ことばは人間のためにあるのではなく、関係のためにある」  
