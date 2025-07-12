@@ -25,8 +25,7 @@ It draws from translation work (_Ise Monogatari_, _Tosa Nikki_), the AEAD projec
 
 ## Author
 
-- Hilofumi Yamamoto [@hilofumi](yamagen.github.io)
-  This project is maintained by a Japanese language educator and researcher.  
+- Hilofumi Yamamoto [@hilofumi](yamagen.github.io) This project is maintained by a Japanese language educator and researcher.  
   Essays may be cited for academic and educational purposes with attribution.
 
 ## License
