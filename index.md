@@ -1,12 +1,15 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/07/12-14:10:56.
+Last change: 2025/07/15-19:58:35.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
 ---
 
 ## 📅 Entries
+
+- No.22, 2025-07-15: "Workshop for language learning": Things to Think About Before You Start Learning a Language [EN](2025/2025-07-15_languagelearning_en.md)
+  [JA](2025/2025-07-15_languagelearning_ja.md)
 
 - No.21, 2025-07-12: "Purpose of Language": Are Humans Fond of Speaking? [EN](2025/2025-07-12_purposeoflanguage_en.md)
   [JA](2025/2025-07-12_purposeoflanguage_ja.md)
