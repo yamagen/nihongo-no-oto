@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/07/16-21:29:10.
+Last change: 2025/07/16-21:31:12.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -8,7 +8,7 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 
 ## 📅 Entries
 
-- No.22, 2025-07-15: "Deluge of Language": 
+- No.23, 2025-07-15: "Deluge of Language": 
   The Flood of Language and Immediate Processing in Learning
   [EN](2025/2025-07-16_delugeoflanguage_en.md)
   [JA](2025/2025-07-16_delugeoflanguage_ja.md)
