@@ -31,9 +31,6 @@ But the structure says everything.
 Add a "ne" or a soft "no?" at the end, and it becomes even more intimate and warm.
 This is what we call *immediate grammar*—language that arises naturally from the situation and emotion.
 
-You can teach the phrase "arigatou," but that alone won't teach this kind of thankfulness.
-That's why recording expressions like these in AEAD is so meaningful.
-
 ---
 
 ### Notes, Tags, Related Projects
