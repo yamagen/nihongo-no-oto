@@ -1,12 +1,17 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/07/24-08:34:09.
+Last change: 2025/07/27-00:08:33.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
 ---
 
 ## 📅 Entries
+
+- No.25, 2025-07-26: "Code Should Fail Cleanly":
+    Design by Explicitness, Not Tolerance
+  [EN](2025/2025-07-26_codeshouldfailcleanly_en.md)
+  [JA](2025/2025-07-26_codeshouldfailcleanly_ja.md)
 
 - No.24, 2025-07-24: "...te kureta nda":
   It contains "thank you" without saying it: 
