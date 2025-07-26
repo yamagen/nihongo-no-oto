@@ -1,68 +1,114 @@
-## Code Should Fail Cleanly — Design by Explicitness, Not Tolerance
+## Code Should Fail Cleanly — On Explicitness and Responsibility in Design
 
-Last change: 2025/07/27-00:07:27.
+
+Last change: 2025/07/27-00:30:42.
 
 ---
 
 ### Summary
 
-Through the process of refining LEAP's email verification system, we re-examined the dangers of tolerant coding and reaffirmed the distinction between "working" and "correct."&#x20;
-Expressions like `rtrim()` for automatic correction, `trim()` for vague validation, and excessive debug `echo`s are all seemingly harmless practices that, in truth, undermine design clarity and obscure responsibility.&#x20;
-This article asserts that "failing correctly" is the hallmark of conscientious design, and a core principle that should be taught in programming education.
+While refining LEAP’s email verification system, we confronted a common programming temptation: adding “failsafes” like `rtrim()` or `trim()` to smooth over assumptions.
+Such choices seem helpful but in fact erode design clarity.
+This article argues that a good program should not keep running when its assumptions are wrong.
+Instead, it must fail explicitly—and configuration must be designed with precision, not patched defensively.
 
 ---
 
 ### Main Text
 
-On July 26, 2025, I worked on confirming and fixing the email verification mechanism of LEAP. While investigating why token files weren't being saved properly on the plover server, I encountered several lines of code that seemed trivial at first—but in fact revealed a deep flaw in the design mindset.
-
-For example, take the line:
+While debugging the token logic in LEAP on July 26, 2025, the following line drew attention:
 
 ```php
 $dataDir = rtrim($config['token_data_dir'], '/') . '/';
 ```
 
-This implies:
+Why was `rtrim()` needed? Because someone might forget to end the directory path with a slash.
 
-* "Whether or not there's a trailing slash is up to the user."
-* "We'll silently fix it for you in the code."
+But that is not the program's job to fix.
+Such code means: “Whatever mistake is made, we’ll try to make it work.”
+This obscures the contract between `config.php` and the program logic.
 
-This looks like a user-friendly design but actually hides the boundary of responsibility and leads to design ambiguity. If `token_data_dir` must end with a slash, that rule should be made explicit in the configuration and enforced strictly in the code. It is better to fail clearly and early:
+Instead, the right contract is:
+
+```php
+// config.php
+// All paths must end with a trailing slash.
+'token_data_dir' => __DIR__ . '/data/tokens/',
+```
+
+The program should trust this contract.
+And if the trust is broken, it should refuse to run:
 
 ```php
 if (substr($config['token_data_dir'], -1) !== '/') {
-    throw new RuntimeException("token_data_dir must end with a '/' character.");
+    throw new RuntimeException("token_data_dir must end with a trailing slash.");
 }
 ```
 
-This isn't about "ensuring it works"—it's about enforcing a design contract. If the logic is wrong, the program should not run. That is an ethical stance in development.
-
-Similarly, lines like `$token = trim($token);` or `trim($json)` reflect an implicit "it's probably not clean, but let’s allow it" mindset. But the correct response should be to ask, "Why is the input malformed in the first place?" and, more importantly, "Is it acceptable to allow it?" Permitting ambiguous data weakens the integrity of the system boundary.
+But even this check reveals a weakness: we are validating something we should not need to validate.
+A better design eliminates the ambiguity upfront—by writing clear configuration and trusting it.
 
 ---
 
-### Minor Safeguards Can Cripple Whole Systems
+### Against trim(): Cleaning Up the Wrong Mess
 
-A program must behave exactly as designed—and no more. That’s what it means to design.&#x20;
-If an unexpected situation arises, the program should stop immediately and loudly. By halting, it notifies the developer or maintainer: “This is not okay.”
+This silent forgiveness also appears in the widespread use of `trim()`:
 
-Code that quietly proceeds despite errors will inevitably misbehave. It will accept invalid inputs, behave differently than intended, and when something goes wrong, it will be impossible to trace why.
+```php
+$json = file_get_contents($tokenFile);
+if ($json === false || trim($json) === '') {
+    echo "Failed to read token file.";
+    exit;
+}
+```
 
-This is why the principle of hypothesis-driven development is essential: make one change per hypothesis, test it, and if it fails, revert. Using defensive code to gloss over errors is tantamount to abandoning design.
+Or:
 
-Phrases like “let’s just trim() it for safety” or “add rtrim() and it’ll be fine” are seductive but dangerous. What begins as a helpful line becomes a burdensome relic—hard to trace, hard to justify.
+```php
+$token = trim($token);
+```
+
+These are defensive acts meant to sanitize—but sanitize what?
+If `file_get_contents()` might return extra whitespace, shouldn’t we fix the file content instead?
+
+Trimming lets errors sneak in quietly, and tells developers: “Don’t worry, we’ll clean up behind you.”
+But this undermines the responsibility of each component in the system.
+If invalid data is passed, the system should fail—not cope.
+
+---
+
+### Responsibility and Hypothesis
+
+Every additional `rtrim()`, every `trim()` is a kind of dishonesty.
+It says: “We don’t quite trust our inputs, and we’d rather cover it up than face a failure.”
+
+Instead, programmers should follow a stricter discipline:\\
+
+1. Make a single change.
+2. Test the hypothesis.
+3. If it fails, roll it back.
+
+This method of working is not harsh—it is scientific.
+It teaches us, and it teaches our students.
+Code should not survive under bad logic, because people learn best from failure that cannot be ignored.
 
 ---
 
 ### Conclusion
 
-“Code should fail cleanly.” This is not just a technical guideline but an educational and ethical one, something to be passed on to the next generation of students and developers.&#x20;
-Rather than just making code that "works," we must aim for code that works **as intended**—and halts when it doesn’t.&#x20;
-Only then can we foster a culture of deliberate and explicit software design.
+Software should run only when its logic is sound.
+When assumptions are violated, it must stop.
+This isn't severity—it is clarity. It is respect for responsibility.
+
+Patching over flaws with `trim()` or `rtrim()` is not robustness.
+It is fear of failure, and it weakens the whole system.
+
+We must create a culture of programming that favors clarity over convenience, and correctness over coverage.
 
 ---
 
-### Notes, Tags, and Related Projects
+### Notes, Tags, Related Projects
 
 * Related Projects: LEAP, p-leap
-* Tags: Programming education, exception design, robustness, debugging, explicit design
+* Tags: programming education, exception handling, robustness, explicit design, configuration discipline
+
