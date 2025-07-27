@@ -1,6 +1,6 @@
 ## Code Should Fail Clearly — On Explicitness and Responsibility in Design
 
-Last change: 2025/07/27-17:52:51. 
+Last change: 2025/07/28-07:37:47. 
 
 ---
 
@@ -14,16 +14,16 @@ This article argues that robust programming is not about making things work, but
 
 ### Main Text
 
-On July 26, 2025, while debugging LEAP’s token handling logic on the plover server, we identified a questionable line of code:
+On July 26, 2025, while debugging LEAP's token handling logic on the plover server, we identified a questionable line of code:
 
 ```php
 $dataDir = rtrim($config['token_data_dir'], '/') . '/';
 ```
 
 Why was `rtrim()` used here?
-Because the configuration might “accidentally” omit the trailing slash.
+Because the configuration might "accidentally" omit the trailing slash.
 
-But that’s not the program’s job to fix.
+But that's not the program's job to fix.
 This line assumes mistakes and silently corrects them, weakening the contract between code and configuration.
 It sacrifices clarity in favor of leniency, which ultimately blurs the boundary of responsibility.
 
@@ -67,14 +67,14 @@ Or more subtly:
 $token = trim($token);
 ```
 
-Such lines are written as a “just in case” safety measure.
+Such lines are written as a "just in case" safety measure.
 But if bad data is entering the system, it is the data source—not the consumer—that must be fixed.
 
 `trim()` hides the problem and gives the false impression that everything is fine.
 In doing so, it undermines trust in the data flow and muddies the separation of responsibility.
 
 Good design begins with a contract:
-*“This input shall be X.”*
+*This input shall be X.*
 If X is not provided, fail fast—and fail clearly.
 
 ---
@@ -96,19 +96,19 @@ This loop is how we design, how we learn, and how we grow.
 
 ### Reflections on Culture and Context
 
-It is likely that many working programmers have focused on keeping things from breaking, on simply “making it work.”
-As long as the system runs, design issues stay hidden—and with limited time and pressure from deadlines, there’s no room to rethink the fundamentals.
+It is likely that many working programmers have focused on keeping things from breaking, on simply "making it work."
+As long as the system runs, design issues stay hidden—and with limited time and pressure from deadlines, there's no room to rethink the fundamentals.
 Small bugs get wrapped in “insurance,” and the codebase eventually becomes unmaintainable.
 
-From a perspective that values logic, verification, and educational clarity, the question “why didn’t it fail?” always lingers.
-And because large language models like AI learn from existing public code, they often inherit this same behavior—reflexively suggesting “let’s just use `rtrim()`” or “add an `echo` to check.”
-This isn’t best practice. It’s the reflection of an unhealthy coding culture.
+From a perspective that values logic, verification, and educational clarity, the question "why didn't it fail?" always lingers.
+And because large language models like AI learn from existing public code, they often inherit this same behavior—reflexively suggesting "let's just use `rtrim()`" or "add an `echo` to check."
+This isn't best practice. It’s the reflection of an unhealthy coding culture.
 
 That is why the following attitude is so important:
 
-> Don’t ask “does it work?” — ask “is this how it *should* work?” And if not, make sure it fails.
+> Don't ask "does it work?" — ask "is this how it *should* work?" And if not, make sure it fails.
 
-This isn’t merely a matter of programming technique.
+This isn't merely a matter of programming technique.
 It’s a matter of **design ethics**—something we must pass on to the next generation.
 
 ---
