@@ -1,43 +1,41 @@
-## Code Should Fail Cleanly — On Explicitness and Responsibility in Design
+## Code Should Fail Clearly — On Explicitness and Responsibility in Design
 
-
-Last change: 2025/07/27-00:30:42.
+Last change: 2025/07/27-17:52:51. 
 
 ---
 
 ### Summary
 
-While refining LEAP’s email verification system, we confronted a common programming temptation: adding “failsafes” like `rtrim()` or `trim()` to smooth over assumptions.
-Such choices seem helpful but in fact erode design clarity.
-This article argues that a good program should not keep running when its assumptions are wrong.
-Instead, it must fail explicitly—and configuration must be designed with precision, not patched defensively.
+While refining the email verification system for LEAP, we encountered ambiguity caused by “protective code.”
+Functions like `rtrim()` and `trim()` may appear to offer safety, but in fact they obscure design flaws and deflect responsibility.
+This article argues that robust programming is not about making things work, but about making things *correct*, and ensuring that violations of assumptions fail fast and visibly.
 
 ---
 
 ### Main Text
 
-While debugging the token logic in LEAP on July 26, 2025, the following line drew attention:
+On July 26, 2025, while debugging LEAP’s token handling logic on the plover server, we identified a questionable line of code:
 
 ```php
 $dataDir = rtrim($config['token_data_dir'], '/') . '/';
 ```
 
-Why was `rtrim()` needed? Because someone might forget to end the directory path with a slash.
+Why was `rtrim()` used here?
+Because the configuration might “accidentally” omit the trailing slash.
 
-But that is not the program's job to fix.
-Such code means: “Whatever mistake is made, we’ll try to make it work.”
-This obscures the contract between `config.php` and the program logic.
+But that’s not the program’s job to fix.
+This line assumes mistakes and silently corrects them, weakening the contract between code and configuration.
+It sacrifices clarity in favor of leniency, which ultimately blurs the boundary of responsibility.
 
-Instead, the right contract is:
+Instead, the configuration should be explicit:
 
 ```php
 // config.php
-// All paths must end with a trailing slash.
+// Directory paths must end with a trailing slash.
 'token_data_dir' => __DIR__ . '/data/tokens/',
 ```
 
-The program should trust this contract.
-And if the trust is broken, it should refuse to run:
+And the program should assume this contract, and halt clearly if it is violated:
 
 ```php
 if (substr($config['token_data_dir'], -1) !== '/') {
@@ -45,14 +43,15 @@ if (substr($config['token_data_dir'], -1) !== '/') {
 }
 ```
 
-But even this check reveals a weakness: we are validating something we should not need to validate.
-A better design eliminates the ambiguity upfront—by writing clear configuration and trusting it.
+Even this kind of check is arguably a failure in design.
+If the configuration is unambiguous by design, such verification wouldn’t be necessary in the first place.
+We should not try to *prevent* failure—we should *design out* the possibility of failure.
 
 ---
 
-### Against trim(): Cleaning Up the Wrong Mess
+### The Deception of "Cleaning Up" with trim()
 
-This silent forgiveness also appears in the widespread use of `trim()`:
+A similar problem arises with `trim()`:
 
 ```php
 $json = file_get_contents($tokenFile);
@@ -62,53 +61,61 @@ if ($json === false || trim($json) === '') {
 }
 ```
 
-Or:
+Or more subtly:
 
 ```php
 $token = trim($token);
 ```
 
-These are defensive acts meant to sanitize—but sanitize what?
-If `file_get_contents()` might return extra whitespace, shouldn’t we fix the file content instead?
+Such lines are written as a “just in case” safety measure.
+But if bad data is entering the system, it is the data source—not the consumer—that must be fixed.
 
-Trimming lets errors sneak in quietly, and tells developers: “Don’t worry, we’ll clean up behind you.”
-But this undermines the responsibility of each component in the system.
-If invalid data is passed, the system should fail—not cope.
+`trim()` hides the problem and gives the false impression that everything is fine.
+In doing so, it undermines trust in the data flow and muddies the separation of responsibility.
 
----
-
-### Responsibility and Hypothesis
-
-Every additional `rtrim()`, every `trim()` is a kind of dishonesty.
-It says: “We don’t quite trust our inputs, and we’d rather cover it up than face a failure.”
-
-Instead, programmers should follow a stricter discipline:\\
-
-1. Make a single change.
-2. Test the hypothesis.
-3. If it fails, roll it back.
-
-This method of working is not harsh—it is scientific.
-It teaches us, and it teaches our students.
-Code should not survive under bad logic, because people learn best from failure that cannot be ignored.
+Good design begins with a contract:
+*“This input shall be X.”*
+If X is not provided, fail fast—and fail clearly.
 
 ---
 
-### Conclusion
+### The Courage to Fail, the Discipline of Hypothesis
 
-Software should run only when its logic is sound.
-When assumptions are violated, it must stop.
-This isn't severity—it is clarity. It is respect for responsibility.
+Using `trim()` or `rtrim()` is a kind of lie.
+It implies that we can quietly fix mistakes without reexamining their source.
+But true programming is scientific and deliberate.
 
-Patching over flaws with `trim()` or `rtrim()` is not robustness.
-It is fear of failure, and it weakens the whole system.
+1. Form a hypothesis.
+2. Change one thing.
+3. If it fails, revert.
 
-We must create a culture of programming that favors clarity over convenience, and correctness over coverage.
+This loop is how we design, how we learn, and how we grow.
+“Protective code” short-circuits this process and robs us of the opportunity to learn from mistakes.
+
+---
+
+### Reflections on Culture and Context
+
+It is likely that many working programmers have focused on keeping things from breaking, on simply “making it work.”
+As long as the system runs, design issues stay hidden—and with limited time and pressure from deadlines, there’s no room to rethink the fundamentals.
+Small bugs get wrapped in “insurance,” and the codebase eventually becomes unmaintainable.
+
+From a perspective that values logic, verification, and educational clarity, the question “why didn’t it fail?” always lingers.
+And because large language models like AI learn from existing public code, they often inherit this same behavior—reflexively suggesting “let’s just use `rtrim()`” or “add an `echo` to check.”
+This isn’t best practice. It’s the reflection of an unhealthy coding culture.
+
+That is why the following attitude is so important:
+
+> Don’t ask “does it work?” — ask “is this how it *should* work?” And if not, make sure it fails.
+
+This isn’t merely a matter of programming technique.
+It’s a matter of **design ethics**—something we must pass on to the next generation.
 
 ---
 
 ### Notes, Tags, Related Projects
 
 * Related Projects: LEAP, p-leap
-* Tags: programming education, exception handling, robustness, explicit design, configuration discipline
+* Tags: programming education, exception handling, robustness, debugging, explicit design, configuration discipline
+
 
