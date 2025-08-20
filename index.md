@@ -1,12 +1,16 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/08/12-17:29:02.
+Last change: 2025/08/20-09:16:51.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
 ---
 
 ## 📅 Entries
+
+- No.29, 2025-08-29: "Snow, and Yet I See You": A Poem That Stands Alone:
+  [EN](2025/2025-08-20_justfantastic_en.md)
+  [JA](2025/2025-08-20_justfantastic_ja.md)
 
 - No.28, 2025-08-12: "Don't explain too much" Readers' Task:
   [EN](2025/2025-08-12_readerstask_en.md)
