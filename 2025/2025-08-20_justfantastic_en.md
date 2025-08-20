@@ -2,7 +2,7 @@
 
 ### Date: 2025-08-20
 
-### Last change: 2025/08/20-09:15:26.
+### Last change: 2025/08/20-09:22:42.
 
 ---
 
@@ -21,7 +21,7 @@ This waka has the rare power to stand on its own, independent of its narrative f
 
 This poem remains vivid even apart from the surrounding tale, a complete love song in itself.  
 
-The opening line, *“When I forget, I think it is but a dream”*, captures the fragile, dreamlike presence of the beloved. With *“omoikya” (who would have thought)*, the poem pivots into surprise and emotional reversal. The closing image, *“treading through the snow to see you”*, engraves the unexpected passion and determination with striking clarity.  
+The opening line, *“When I forget, I think it is but a dream”*, captures the fragile, dreamlike presence of the beloved. With *“omoikiya” (who would have thought)*, the poem pivots into surprise and emotional reversal. The closing image, *“treading through the snow to see you”*, engraves the unexpected passion and determination with striking clarity.  
 
 What matters here is that the poem does not require detailed explanation to be understood. We are not told how deep the snow is, or the exact circumstance of the meeting. Instead, readers bring their own experience and feeling into the poem, completing it in their own way. This is precisely what makes interpretive space—or *yohaku*, the margin of ambiguity—so essential.  
 
