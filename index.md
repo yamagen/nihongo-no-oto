@@ -1,12 +1,16 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/08/20-09:16:51.
+Last change: 2025/08/24-11:39:28.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
 ---
 
 ## 📅 Entries
+
+- No.30, 2025-08-24: "Kaeru to sugu" vs. "Kaette sugu": Why "As Soon As I Got Home" Sounds Unnatural
+  [EN](2025/2025-08-24_assoonas_en.md)
+  [JA](2025/2025-08-24_assoonas_ja.md
 
 - No.29, 2025-08-29: "Snow, and Yet I See You": A Poem That Stands Alone:
   [EN](2025/2025-08-20_justfantastic_en.md)
