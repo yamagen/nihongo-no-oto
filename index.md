@@ -1,12 +1,16 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/08/24-11:41:35.
+Last change: 2025/08/28-16:43:47.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
 ---
 
 ## 📅 Entries
+
+- No.31, 2025-08-28: "Dumb Development and Orphanated Codes": Why programmers frequently use 'htmlspecialchars()'
+  [EN](2025/2025-08-28_thelovelycodes_en.md)
+  [JA](2025/2025-08-28_thelovelycodes_ja.md)
 
 - No.30, 2025-08-24: "Kaeru to sugu" vs. "Kaette sugu": Why "As Soon As I Got Home" Sounds Unnatural
   [EN](2025/2025-08-24_assoonas_en.md)
