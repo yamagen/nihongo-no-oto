@@ -1,12 +1,16 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/08/28-16:43:47.
+Last change: 2025/08/31-15:32:14.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
 ---
 
 ## 📅 Entries
+
+- No.32, 2025-08-31: "Notes on Negative Expressions and Theoretical Linguistics"
+  [EN](2025/2025-08-31_negativeelements_en.md)
+  [JA](2025/2025-08-31_negativeelements_ja.md)
 
 - No.31, 2025-08-28: "Dumb Development and Orphanated Codes": Why programmers frequently use 'htmlspecialchars()'
   [EN](2025/2025-08-28_thelovelycodes_en.md)
