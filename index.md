@@ -1,12 +1,20 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/08/31-15:32:14.
+Last change: 2025/09/13-13:57:35.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
 ---
 
 ## 📅 Entries
+
+- No.34, 2025-09-11: "Food Labeling and Genuine Health Awareness"
+  [EN](2025/2025-09-13_danger_en.md)
+  [JA](2025/2025-09-13_danger_ja.md)
+
+- No.33, 2025-09-12: "Honest Conversation about Food and Health"
+  [EN](2025/2025-09-12_food_adulteration_en.md)
+  [JA](2025/2025-09-12_food_adulteration_ja.md)
 
 - No.32, 2025-08-31: "Notes on Negative Expressions and Theoretical Linguistics"
   [EN](2025/2025-08-31_negativeelements_en.md)
