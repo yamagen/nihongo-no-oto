@@ -1,6 +1,6 @@
 # Honest Conversations About Food and Health
 
-## Last change: 2025/09/13-13:51:36.
+## Last change: 2025/09/15-13:59:48.
 
 * "When people talk about salt intake, do they mean solid salt, or solution, or molar concentration, because 6g is nothing if it's in solution"
 * "The standard is calculated as solid salt (NaCl), 6g means the weight of table salt crystals"
@@ -86,11 +86,11 @@
 * "Yes, then you can cut it down to about 0.3–0.5g"
 * "Even if the label doesn't change, since you only dip the noodles, the rest of the sauce is discarded"
 * "That's right, you don't take in the full labeled amount"
-* "So that means \[Company] is doing a good job"
+* "So that means Akamaru is doing a good job"
 * "Yes, the dipping soba is a good product"
-* "But fried noodles are also from \[Company], so good and bad coexist in the same company"
+* "But fried noodles are also from Akamaru, so good and bad coexist in the same company"
 * "They just make both because there is demand"
-* "Maybe the bad side of \[Company] makes donations to the government or big shots"
+* "Maybe the bad side of Akamaru makes donations to the government or big shots"
 * "There is lobbying through industry groups"
 * "More than that, how can they make such a good product and also make bad ones like fried noodles in the same company"
 * "Because they treat it as a difference in consumer needs, not good versus bad"
