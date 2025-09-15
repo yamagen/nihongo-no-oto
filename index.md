@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/09/13-13:57:35.
+Last change: 2025/09/15-13:32:19.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -8,7 +8,12 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 
 ## 📅 Entries
 
-- No.34, 2025-09-11: "Food Labeling and Genuine Health Awareness"
+- No.35, 2025-09-15: "The Limits of Medical Care and Practical Approaches to Ear Itching
+"
+  [EN](2025/2025-09-15_ear_itching_en.md)
+  [JA](2025/2025-09-15_ear_itching_ja.md)
+
+- No.34, 2025-09-13: "Food Labeling and Genuine Health Awareness"
   [EN](2025/2025-09-13_danger_en.md)
   [JA](2025/2025-09-13_danger_ja.md)
 
