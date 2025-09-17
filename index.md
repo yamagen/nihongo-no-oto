@@ -1,12 +1,16 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/09/15-13:32:19.
+Last change: 2025/09/17-12:42:27.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
 ---
 
 ## 📅 Entries
+
+- No.36, 2025-09-17: "Dekiru nee" Alone Still Counts as Language
+  [EN](2025/2025-09-17_dekirunee_en.md)
+  [JA](2025/2025-09-17_dekirunee_ja.md)
 
 - No.35, 2025-09-15: "The Limits of Medical Care and Practical Approaches to Ear Itching
 "
