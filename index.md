@@ -1,12 +1,16 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/09/17-12:42:27.
+Last change: 2025/10/06-18:38:17.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
 ---
 
 ## 📅 Entries
+
+- No.37, 2025-10-06: "Yaminikeri" — A Word That Ends Completion
+  [EN](2025/2025-10-06_yaminikeri_en.md)
+  [JA](2025/2025-10-06_yaminikeri_ja.md)
 
 - No.36, 2025-09-17: "Dekiru nee" Alone Still Counts as Language
   [EN](2025/2025-09-17_dekirunee_en.md)
