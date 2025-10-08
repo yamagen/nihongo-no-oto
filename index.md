@@ -1,12 +1,16 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/10/06-18:38:17.
+Last change: 2025/10/08-23:39:46.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
 ---
 
 ## 📅 Entries
+
+- No.38, 2025-10-08: "MIT and UCSD" — Memories of Wooden Buildings and Neural Networks in the Wind
+  [EN](2025/2025-10-08_MIT_UCSD_en.md)
+  [JA](2025/2025-10-08_MIT_UCSD_ja.md)
 
 - No.37, 2025-10-06: "Yaminikeri" — A Word That Ends Completion
   [EN](2025/2025-10-06_yaminikeri_en.md)
