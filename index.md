@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/10/18-14:16:09.
+Last change: 2025/10/18-18:39:50.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -9,8 +9,10 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 ## 📅 Entries
 
 - No.39, 2025-10-18: "AI Does Not Replace Human Analysis"  
+<span>
   [EN](2025/2025-10-18_use-of-ai_en.md)  
   [JA](2025/2025-10-18_use-of-ai_ja.md)
+</span>
 
 - No.38, 2025-10-08: "MIT and UCSD":  
   Memories of Wooden Buildings and Neural Networks in the Wind  
