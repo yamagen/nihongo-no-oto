@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/10/18-19:12:52.
+Last change: 2025/10/18-19:14:36.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -34,10 +34,10 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 - No.32, 2025-08-31: "Notes on Negative Expressions and Theoretical Linguistics"
   [EN](2025/2025-08-31_negativeelements_en.md)
   [JA](2025/2025-08-31_negativeelements_ja.md)
-- No.31, 2025-08-28: "Dumb Development and Orphanated Codes": Why programmers frequently use 'htmlspecialchars()'
+- No.31, 2025-08-28: "Dumb Development and Orphanated Codes": 
   [EN](2025/2025-08-28_thelovelycodes_en.md)
   [JA](2025/2025-08-28_thelovelycodes_ja.md)
-- No.30, 2025-08-24: "Kaeru to sugu" vs. "Kaette sugu": Why "As Soon As I Got Home" Sounds Unnatural
+- No.30, 2025-08-24: "Kaeru to sugu" vs. "Kaette sugu": 
   [EN](2025/2025-08-24_assoonas_en.md)
   [JA](2025/2025-08-24_assoonas_ja.md)
 - No.29, 2025-08-29: "Snow, and Yet I See You": A Poem That Stands Alone.
@@ -85,7 +85,6 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 - No.17, 2025-06-09: "Sonna hi mo aru": There Are Days Like That
   [EN](2025/2025-06-09_sonnnahimoaru_en.md)
   [JA](2025/2025-06-09_sonnnahimoaru_ja.md)
-
 - No.16, 2025-06-07: "Zenbu ga zenbu": Not everything, you know
   [EN](2025/2025-06-07_zenbugazenbu_en.md)
   [JA](2025/2025-06-07_zenbugazenbu_ja.md)
@@ -123,10 +122,10 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 - No.5, 2025-05-08: "Thus and thus, I think": The Silent Success of the Third Son
   [EN](2025/2025-05-08_tsukumogami_en.md)
   [JA](2025/2025-05-08_tsukumogami_ja.md)
-- No.4, 2025-05-07: "Arekara 2" - You Can Diagram It in English, But Not in Japanese
+- No.4, 2025-05-07: "Arekara 2": You Can Diagram It in English, But Not in Japanese
   [EN](2025/2025-05-07_arekara2_en.md)
   [JA](2025/2025-05-07_arekara2_ja.md)
-- No.3, 2025-05-06: "Arekara, Hey, yesterday" after that, what happened?"  
+- No.3, 2025-05-06: "Arekara, Hey, yesterday" after that, what happened?  
   [EN](2025/2025-05-06_arekara_en.md)
   [JA](2025/2025-05-06_arekara_ja.md)
 - No.2, 2025-05-05: "Ano toki ne": The Moment Speech Has Already Begun
