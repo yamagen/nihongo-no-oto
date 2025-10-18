@@ -1,5 +1,6 @@
 # Ignore templates (local drafts or note templates)
 templates/
+.github/
 
 # Ignore backup files
 *~
