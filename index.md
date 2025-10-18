@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/10/18-19:17:41.
+Last change: 2025/10/18-19:18:21.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -118,7 +118,7 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 - No.4, 2025-05-07: "Arekara 2": You Can Diagram It in English, But Not in Japanese
   [EN](2025/2025-05-07_arekara2_en.md)
   [JA](2025/2025-05-07_arekara2_ja.md)
-- No.3, 2025-05-06: "Arekara, Hey, yesterday" after that, what happened?  
+- No.3, 2025-05-06: "Arekara, Hey, yesterday" after that, what happened?
   [EN](2025/2025-05-06_arekara_en.md)
   [JA](2025/2025-05-06_arekara_ja.md)
 - No.2, 2025-05-05: "Ano toki ne": The Moment Speech Has Already Begun
