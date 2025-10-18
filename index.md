@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/10/18-19:15:08.
+Last change: 2025/10/18-19:16:52.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -13,7 +13,7 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 - No.39, 2025-10-18: "AI Does Not Replace Human Analysis"
   [EN](2025/2025-10-18_use-of-ai_en.md)
   [JA](2025/2025-10-18_use-of-ai_ja.md)
-- No.38, 2025-10-08: "MIT and UCSD": Memories of Wooden Buildings and Neural Networks in the Wind
+- No.38, 2025-10-08: "MIT and UCSD": Memories of Wooden Buildings and Neural Networks 
   [EN](2025/2025-10-08_MIT_UCSD_en.md)
   [JA](2025/2025-10-08_MIT_UCSD_ja.md)
 - No.37, 2025-10-06: "Yaminikeri"; A Word That Ends Completion
@@ -52,12 +52,10 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 - No.26, 2025-07-28: "Interestingness in Argument":
   [EN](2025/2025-07-28_omoshirosa_en.md)
   [JA](2025/2025-07-28_omoshirosa_ja.md)
-- No.25, 2025-07-26: "Code Should Fail Cleanly":  
-   Design by Explicitness, Not Tolerance
+- No.25, 2025-07-26: "Code Should Fail Cleanly": 
   [EN](2025/2025-07-26_codeshouldfailcleanly_en.md)
   [JA](2025/2025-07-26_codeshouldfailcleanly_ja.md)
-- No.24, 2025-07-24: "...te kureta nda":  
-  It contains "thank you" without saying it:
+- No.24, 2025-07-24: "...te kureta nda": It contains "thank you" without saying it:
   [EN](2025/2025-07-24_kuretanda_en.md)
   [JA](2025/2025-07-24_kuretanda_ja.md)
 - No.23, 2025-07-16: "Deluge of Language":  
@@ -68,8 +66,7 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
   Things to Think About Before You Start Learning a Language
   [EN](2025/2025-07-15_languagelearning_en.md)
   [JA](2025/2025-07-15_languagelearning_ja.md)
-- No.21, 2025-07-12: "Purpose of Language":  
-  Are Humans Fond of Speaking?
+- No.21, 2025-07-12: "Purpose of Language": Are Humans Fond of Speaking?
   [EN](2025/2025-07-12_purposeoflanguage_en.md)
   [JA](2025/2025-07-12_purposeoflanguage_ja.md)
 - No.20, 2025-06-22: "Writing is discussing"
@@ -105,8 +102,7 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 - No.10, 2025-05-16: "Ureshii": A Word Meant for No One?
   [EN](2025/2025-05-16_adj_selftalk_en.md)
   [JA](2025/2025-05-16_adj_selftalk_ja.md)
-- No.9, 2025-05-12: "Primordium":  
-  The Meaning and Function of Single-Hiragana Words
+- No.9, 2025-05-12: "Primordium": The Meaning and Function of Single-Hiragana Words
   [EN](2025/2025-05-12_primordium_en.md)
   [JA](2025/2025-05-12_primordium_ja.md)
 - No.8, 2025-05-11: "sa si su se so": The Meaning/Function of Single-Hiragana Words
