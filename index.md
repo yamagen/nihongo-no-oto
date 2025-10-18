@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/10/18-19:14:36.
+Last change: 2025/10/18-19:15:08.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -50,7 +50,6 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
   [EN](2025/2025-08-09_tenogloss_en.md)
   [JA](2025/2025-08-09_tenogloss_ja.md)
 - No.26, 2025-07-28: "Interestingness in Argument":
-   How to write an interesting argument  
   [EN](2025/2025-07-28_omoshirosa_en.md)
   [JA](2025/2025-07-28_omoshirosa_ja.md)
 - No.25, 2025-07-26: "Code Should Fail Cleanly":  
