@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/10/08-23:39:46.
+Last change: 2025/10/18-12:09:22.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -51,7 +51,7 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 
 - No.28, 2025-08-12: "Don't explain too much" Readers' Task:
   [EN](2025/2025-08-12_readerstask_en.md)
-  [JA](2025/2025-08-12_readerstask_ja.md
+  [JA](2025/2025-08-12_readerstask_ja.md)
 
 - No.27, 2025-08-09: "te" as a Linking Tool:
   [EN](2025/2025-08-09_tenogloss_en.md)
