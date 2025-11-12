@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/10/18-19:18:21.
+Last change: 2025/11/12-23:40:17.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -10,10 +10,19 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 
 <prettier-ignore>
 
+- No.42, 2025-11-12: Research Framework of Process Grammar Model
+  [EN](2025/2025-11-12_research_framework-en.md)
+  [JA](2025/2025-11-12_research_framework-ja.md)
+- No.41, 2025-10-26: Language Teaching
+  [EN](2025/2025-10-26_language-teaching-en.md)
+  [JA](2025/2025-10-26_language-teaching-ja.md)
+- No.40, 2025-10-20: Fading Narrativeness: When a Phrase Becomes a Compound
+  [EN](2025/2025-10-20_fading-narrativeness_en.md)
+  [JA](2025/2025-10-20_fading-narrativeness_ja.md)
 - No.39, 2025-10-18: "AI Does Not Replace Human Analysis"
   [EN](2025/2025-10-18_use-of-ai_en.md)
   [JA](2025/2025-10-18_use-of-ai_ja.md)
-- No.38, 2025-10-08: "MIT and UCSD": Memories of Wooden Buildings and Neural Networks 
+- No.38, 2025-10-08: "MIT and UCSD": Memories of Wooden Buildings and Neural Networks
   [EN](2025/2025-10-08_MIT_UCSD_en.md)
   [JA](2025/2025-10-08_MIT_UCSD_ja.md)
 - No.37, 2025-10-06: "Yaminikeri"; A Word That Ends Completion
@@ -22,7 +31,7 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 - No.36, 2025-09-17: "Dekiru nee" Alone Still Counts as Language
   [EN](2025/2025-09-17_dekirunee_en.md)
   [JA](2025/2025-09-17_dekirunee_ja.md)
-- No.35, 2025-09-15: "The Limits of Medical Care": Practical Approaches to Ear Itching 
+- No.35, 2025-09-15: "The Limits of Medical Care": Practical Approaches to Ear Itching
   [EN](2025/2025-09-15_ear_itching_en.md)
   [JA](2025/2025-09-15_ear_itching_ja.md)
 - No.34, 2025-09-13: "Food Labeling and Genuine Health Awareness"
@@ -34,10 +43,10 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 - No.32, 2025-08-31: "Notes on Negative Expressions and Theoretical Linguistics"
   [EN](2025/2025-08-31_negativeelements_en.md)
   [JA](2025/2025-08-31_negativeelements_ja.md)
-- No.31, 2025-08-28: "Dumb Development and Orphanated Codes": 
+- No.31, 2025-08-28: "Dumb Development and Orphanated Codes":
   [EN](2025/2025-08-28_thelovelycodes_en.md)
   [JA](2025/2025-08-28_thelovelycodes_ja.md)
-- No.30, 2025-08-24: "Kaeru to sugu" vs. "Kaette sugu": 
+- No.30, 2025-08-24: "Kaeru to sugu" vs. "Kaette sugu":
   [EN](2025/2025-08-24_assoonas_en.md)
   [JA](2025/2025-08-24_assoonas_ja.md)
 - No.29, 2025-08-29: "Snow, and Yet I See You": A Poem That Stands Alone.
@@ -52,7 +61,7 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 - No.26, 2025-07-28: "Interestingness in Argument":
   [EN](2025/2025-07-28_omoshirosa_en.md)
   [JA](2025/2025-07-28_omoshirosa_ja.md)
-- No.25, 2025-07-26: "Code Should Fail Cleanly": 
+- No.25, 2025-07-26: "Code Should Fail Cleanly":
   [EN](2025/2025-07-26_codeshouldfailcleanly_en.md)
   [JA](2025/2025-07-26_codeshouldfailcleanly_ja.md)
 - No.24, 2025-07-24: "...te kureta nda": It contains "thank you" without saying it:
@@ -109,7 +118,7 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 - No.7, 2025-05-10: "Something Feels Off": My Entry into the Ise Monogatari
   [EN](2025/2025-05-10_nankahen_en.md)
   [JA](2025/2025-05-10_nankahen_ja.md)
-- No.6, 2025-05-09: "Historical Context" Doesn't Overwrite the Human Heart 
+- No.6, 2025-05-09: "Historical Context" Doesn't Overwrite the Human Heart
   [EN](2025/2025-05-09_jidaihaikei_en.md)
   [JA](2025/2025-05-09_jidaihaikei_ja.md)
 - No.5, 2025-05-08: "Thus and thus, I think": The Silent Success of the Third Son
