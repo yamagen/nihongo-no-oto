@@ -1,0 +1,68 @@
+
+digraph ChunkNetwork {
+    graph [
+        fontsize=14,
+        label="Chunk Network in Natural Conversation\n(Immediate Grammar Activation)",
+        labelloc="t"
+    ];
+
+    node [shape=box, style=filled, fontsize=12, fillcolor="#FFFFFF"];
+
+    // Core chunks
+    C1 [label="Yeah"];
+    C2 [label="Right"];
+    C3 [label="I know"];
+    C4 [label="OK"];
+    C5 [label="Sure"];
+    C6 [label="Really?"];
+    C7 [label="No way"];
+    C8 [label="I see"];
+    C9 [label="Got it"];
+    C10 [label="Exactly"];
+
+    // Contextual triggers
+    subgraph cluster_triggers {
+        label="Contextual triggers\n(prosody / turn-taking / stance)";
+        color="#E8E8E8";
+        style=filled;
+
+        T1 [label="イントネーション\n(prosody)"];
+        T2 [label="ターン交代合図\n(turn-taking cue)"];
+        T3 [label="同意・共感の兆候\n(stance)"];
+        T4 [label="驚き・対比\n(surprise/contrast)"];
+    }
+
+    // Connections from triggers to chunks
+    T1 -> C1;
+    T1 -> C2;
+    T2 -> C4;
+    T2 -> C9;
+    T3 -> C3;
+    T3 -> C10;
+    T4 -> C6;
+    T4 -> C7;
+
+    // Chunk-to-chunk network (mutually activatable)
+    C1 -> C2 [dir=both, color="#888888"];
+    C2 -> C10 [dir=both, color="#888888"];
+    C3 -> C8 [dir=both, color="#888888"];
+    C4 -> C5 [dir=both, color="#888888"];
+    C5 -> C9 [dir=both, color="#888888"];
+    C6 -> C7 [dir=both, color="#888888"];
+    C8 -> C1 [dir=both, color="#888888"];
+
+    // Output
+    Output [label="即時発話\n(one-beat response)", shape=oval, fillcolor="#E8E8E8"];
+
+    // Chunk activation leads to output
+    C1 -> Output;
+    C2 -> Output;
+    C3 -> Output;
+    C4 -> Output;
+    C5 -> Output;
+    C6 -> Output;
+    C7 -> Output;
+    C8 -> Output;
+    C9 -> Output;
+    C10 -> Output;
+}

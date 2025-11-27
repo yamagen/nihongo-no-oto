@@ -1,0 +1,56 @@
+
+digraph SpokenGrammarGap {
+    graph [
+        fontsize=14,
+        label="Comparison of School-taught English and Spoken Grammar",
+        labelloc="t"
+    ];
+
+    node [shape=box, style=filled, fontsize=12, fillcolor="#FFFFFF"];
+
+    // School-taught English
+    subgraph cluster_school {
+        label="School-taught English\n(Instructional Focus)";
+        color="#FFE7CD";  // soft orange
+        style=filled;
+
+        S1 [label="文法的完全性\n(full forms)"];
+        S2 [label="精密な構文\n(tense/aspect/relative clauses)"];
+        S3 [label="目的語の明示\n(explicit objects: it, them)"];
+        S4 [label="正確さの重視\n(accuracy-oriented)"];
+        S5 [label="書き言葉中心\n(written-style models)"];
+
+        S1 -> S2 -> S3 -> S4 -> S5;
+    }
+
+    // Spoken grammar (natural conversation)
+    subgraph cluster_spoken {
+        label="Spoken Grammar\n(Natural Conversation Patterns)";
+        color="#CDE7FF";  // soft blue
+        style=filled;
+
+        P1 [label="省略・短縮\n(reduced forms: gonna, wanna)"];
+        P2 [label="目的語の可変性\n(object optionality)"];
+        P3 [label="chunkベース\n(fixed expressions/chunks)"];
+        P4 [label="即時性・対話性\n(turn-taking, prosody)"];
+        P5 [label="意味重視の順序\n(meaning-before-form)"];
+
+        P1 -> P2 -> P3 -> P4 -> P5;
+    }
+
+    // Cross connections showing mismatch
+    S3 -> P2 [style=dashed, label="object optionality\n(varies in actual usage)", fontsize=11];
+    S1 -> P1 [style=dashed, label="full vs reduced forms", fontsize=11];
+    S4 -> P4 [style=dashed, label="accuracy vs immediacy", fontsize=11];
+    S5 -> P3 [style=dashed, label="written vs chunk-based", fontsize=11];
+
+    // Neutral start/end points
+    Start [label="英語使用場面\n(language use context)", shape=oval, fillcolor="#E8E8E8"];
+    End [label="学習者の発話\n(learner production)", shape=oval, fillcolor="#E8E8E8"];
+
+    Start -> S1;
+    Start -> P1;
+
+    S5 -> End;
+    P5 -> End;
+}

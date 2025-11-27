@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/11/12-23:40:17.
+Last change: 2025/11/27-21:29:44.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -10,6 +10,9 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 
 <prettier-ignore>
 
+- No.43, 2025-11-27: PGM Is Not a New Term
+  [EN](2025/2025-11-27-process-grammar-paradigm-en.md)
+  [JA](2025/2025-11-27-process-grammar-paradigm-ja.md)
 - No.42, 2025-11-12: Research Framework of Process Grammar Model
   [EN](2025/2025-11-12_research_framework-en.md)
   [JA](2025/2025-11-12_research_framework-ja.md)
