@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/11/27-21:39:59.
+Last change: 2025/11/28-18:55:32.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -10,6 +10,9 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 
 <prettier-ignore>
 
+- No.45, 2025-11-28: Ne,sa,yo-tests Mislead: Children Attach "ne" to Words, Not Phrase Units
+  [EN](2025/2025-11-28-nesayo-test-en.md)
+  [JA](2025/2025-11-28-nesayo-test-ja.md)
 - No.44, 2025-11-27: Correctly Positioning the Process Grammar Model
   [EN](2025/2025-11-27-process-grammar-misleading-en.md)
   [JA](2025/2025-11-27-process-grammar-misleading-ja.md)
