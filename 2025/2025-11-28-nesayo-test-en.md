@@ -30,9 +30,11 @@ At that moment, I realized something important.
 
 They never produced:
 
-- wa ne (wa sound of "watashi" which means "I")
-- ta ne (ta sound of "watashi" which means "I")
-- shi ne (shi sound of "watashi" which means "I")
+```
+wa ne (wa sound of "watashi" which means "I")
+ta ne (ta sound of "watashi" which means "I")
+shi ne (shi sound of "watashi" which means "I")
+```
 
 because they perceive "watashi" as a single word.
 Likewise, "Toukyou" is one word.
