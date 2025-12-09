@@ -1,6 +1,6 @@
 # 気楽な稼業論
 
-nihongo-no-oto/2025/2025-12-09-easy-work-ja.md
+<!-- nihongo-no-oto/2025/2025-12-09-easy-work-ja.md -->
 
 Last updated: 2025/12/09-14:06:30
 
