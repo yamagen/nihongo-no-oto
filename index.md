@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/12/01-11:24:26.
+Last change: 2025/12/09-17:27:48.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -9,6 +9,18 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 ## 📅 Entries
 
 <prettier-ignore>
+
+- No.50, 2025-12-09: Easy Work; just requires a laptop, electricity, coffee, and a bit of chocolate.
+  [EN](2025/2025-12-09-easy-work-en.md)
+  [JA](2025/2025-12-09-easy-work-ja.md)
+
+- No.49, 2025-12-06: Methodology of Word-for-Word Translation
+  [EN](2025/2025-12-06-wfw-translation-en.md)
+  [JA](2025/2025-12-06-wfw-translation-ja.md)
+
+- No.48, 2025-12-05: How to Write Papers
+  [EN](2025/2025-12-05-writing-papers-en.md)
+  [JA](2025/2025-12-05-writing-papers-ja.md)
 
 - No.47, 2025-12-01: Dougiri and Invisible Media
   [EN](2025/2025-12-01-dougiri-and-invisible-media-en.md)
@@ -21,6 +33,7 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 - No.45, 2025-11-28: Ne, sa, yo-tests Mislead
   [EN](2025/2025-11-28-nesayo-test-en.md)
   [JA](2025/2025-11-28-nesayo-test-ja.md)
+
 - No.44, 2025-11-27: Correctly Positioning the Process Grammar Model
   [EN](2025/2025-11-27-process-grammar-misleading-en.md)
   [JA](2025/2025-11-27-process-grammar-misleading-ja.md)
