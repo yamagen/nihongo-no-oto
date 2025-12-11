@@ -2,132 +2,11 @@
 
 Last updated: 2025/12/11-09:38:18
 
-## Graphviz（dot）による「世界知識の骨格：全体構造図」
+## 世界知識の骨格：全体構造図
 
 ![world-frame](2025-12-11-frame-of-world-ja.svg)
 
-```dot
-digraph WorldKnowledge {
-    graph [layout="neato", rankdir=TB, fontsize=11];
-    node  [shape=box, style=rounded, fontsize=9];
-    edge  [fontsize=8];
-
-    "World" [label="World Knowledge"];
-
-    # ---- 1. Physical World ----
-    subgraph cluster_physical {
-        label="1. Physical World";
-        color=lightgrey;
-
-        PW_anchor [label="Physical World", shape=oval, style=filled, fillcolor=white];
-        Space   [label="Space"];
-        Time    [label="Time"];
-        Matter  [label="Matter"];
-        Life    [label="Life"];
-
-        PW_anchor -> Space;
-        PW_anchor -> Time;
-        PW_anchor -> Matter;
-        PW_anchor -> Life;
-    }
-
-    # ---- 2. Social & Cultural World ----
-    subgraph cluster_social {
-        label="2. Social & Cultural World";
-        color=lightgrey;
-
-        SC_anchor [label="Social & Cultural", shape=oval, style=filled, fillcolor=white];
-        Groups  [label="Groups"];
-        Roles   [label="Roles"];
-        Norms   [label="Norms"];
-        Culture [label="Culture"];
-
-        SC_anchor -> Groups;
-        SC_anchor -> Roles;
-        SC_anchor -> Norms;
-        SC_anchor -> Culture;
-    }
-
-    # ---- 3. Mind & Behavior ----
-    subgraph cluster_psych {
-        label="3. Mind & Behavior";
-        color=lightgrey;
-
-        MB_anchor [label="Mind & Behavior", shape=oval, style=filled, fillcolor=white];
-        Emotion   [label="Emotion"];
-        Cognition [label="Cognition"];
-        Motivation[label="Motivation"];
-
-        MB_anchor -> Emotion;
-        MB_anchor -> Cognition;
-        MB_anchor -> Motivation;
-    }
-
-    # ---- 4. Language System ----
-    subgraph cluster_language {
-        label="4. Language System";
-        color=lightgrey;
-
-        LG_anchor [label="Language System", shape=oval, style=filled, fillcolor=white];
-        Grammar   [label="Grammar"];
-        Lexicon   [label="Lexicon"];
-        Pragmatics[label="Pragmatics"];
-
-        LG_anchor -> Grammar;
-        LG_anchor -> Lexicon;
-        LG_anchor -> Pragmatics;
-    }
-
-    # ---- 5. Structured Knowledge Domains ----
-    subgraph cluster_domains {
-        label="5. Knowledge Domains";
-        color=lightgrey;
-
-        KD_anchor    [label="Knowledge Domains", shape=oval, style=filled, fillcolor=white];
-        Science      [label="Science"];
-        Humanities   [label="Humanities"];
-        Engineering  [label="Engineering"];
-        Mathematics  [label="Mathematics"];
-
-        KD_anchor -> Science;
-        KD_anchor -> Humanities;
-        KD_anchor -> Engineering;
-        KD_anchor -> Mathematics;
-    }
-
-    # ---- 6. Inference ----
-    subgraph cluster_inference {
-        label="6. Causality & Reasoning";
-        color=lightgrey;
-
-        INF_anchor [label="Inference", shape=oval, style=filled, fillcolor=white];
-        Causality [label="Causality"];
-        Category  [label="Categorization"];
-        Analogy   [label="Analogy"];
-
-        INF_anchor -> Causality;
-        INF_anchor -> Category;
-        INF_anchor -> Analogy;
-    }
-
-    # ---- Connections from root ----
-    "World" -> PW_anchor;
-    "World" -> SC_anchor;
-    "World" -> MB_anchor;
-    "World" -> LG_anchor;
-    "World" -> KD_anchor;
-    "World" -> INF_anchor;
-
-    # ---- Cross-domain conceptual links ----
-    PW_anchor  -> KD_anchor  [label="basis for sciences"];
-    MB_anchor  -> LG_anchor  [label="enables language use"];
-    LG_anchor  -> SC_anchor  [label="mediates communication"];
-    INF_anchor -> KD_anchor  [label="supports explanation"];
-    INF_anchor -> LG_anchor  [label="supports meaning-making"];
-}
-```
-
-# この図の見方
+## 解説
 
 **World Knowledge（世界知識）** を根に置き、
 
@@ -141,34 +20,6 @@ digraph WorldKnowledge {
 という6大ブロックを並列に置き、その間の依存関係・媒介関係を最低限のリンクで示しています。
 
 内容的には、あなたが日々扱っている **PGM の上位に存在する世界観の「骨格」** に当たるものです。
-
----
-
-# 必要に応じて応用図も作れます
-
-例えば：
-
-- **PGM（IG / AG）に重ねた世界知識の構造図**
-- **言語知識ブロックだけを展開した学術レベルのサブグラフ**
-- **古典語辞書仕様や gloss の概念体系と接続した図**
-- **人間の認知系（System1/2）と AI 推論の類比図**
-
-などの派生図も生成できます。
-
----
-
-必要であれば、
-「もっと簡略化した図」
-「より専門的に細分化した図」
-どちらのバージョンもすぐ作成できます。
-
-とても鋭い質問です。
-あなたの体験はまさに「AI の構造的弱点」が露呈した瞬間で、
-**なぜ “整然と説明できる私” が “トンチンカンな私” に急転するのか**は、内部の回路（実際には回路ではなくモデルの計算構造）が深く関係しています。
-
-以下は専門的内容を**平易に整理した解説**です。
-
----
 
 # ✔ まず結論：
 
