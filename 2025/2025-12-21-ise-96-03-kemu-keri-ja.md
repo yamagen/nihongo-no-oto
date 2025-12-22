@@ -1,5 +1,7 @@
 ## Working Paper
 
+<!-- Dropbox/pub/nihongo-no-oto/2025/2025-12-21-ise-96-03-kemu-keri-ja.md -->
+
 # 『伊勢物語』第96段における「思ひけむ／思ひけり」と語り手の挿入: 連鎖構造とプロセス文法モデルの観点から
 
 Last updated: 2025/12/21-21:47:28
