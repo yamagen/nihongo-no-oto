@@ -6,6 +6,8 @@
 
 A Chain-Structural Analysis from the Perspective of the Process Grammar Model
 
+Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo, Japan
+
 Last updated: 2025/12/21-21:47:28
 
 ## 1. Introduction
