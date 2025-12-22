@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/12/22-11:08:50.
+Last change: 2025/12/22-17:49:49.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -9,6 +9,10 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 ## 📅 Entries
 
 <prettier-ignore>
+
+- No.53, 2025-12-22: Immediate Understanding to Polysemous Appreciation: Meaning Comprehension as a Process
+  [EN](2025/2025-12-22-title-and-pun-en.md)
+  [JA](2025/2025-12-22-title-and-pun-ja.md)
 
 - No.52, 2025-12-21: Ise Monogatari Segment 96: "Omoi kemu / Omoi keri" and Narrator's Insertion: From the Perspective of Chain Structure and Process Grammar Model
   [EN](2025/2025-12-21-ise-96-03-kemu-keri-en.md)
