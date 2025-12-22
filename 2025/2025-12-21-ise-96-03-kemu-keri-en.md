@@ -59,6 +59,9 @@ By contrast, the subsequent _omoi-keri_ does not signal a conjectural operation.
 
 Based on the preceding analysis, the narrative in this example can be organized as a chain consisting of three phases: the presentation of a reason, an insertive intervention by the narrator, and the retrieval of the narrative back into its main line. Specifically, _iwaki ni shi araneba_ functions as a reason clause that motivates the subsequent formation of emotion. Immediately following this, _kokorogurushi to ya omoi-kemu_ signals a conjectural intervention on the part of the narrator that temporarily suspends the progression of the narrative. In the subsequent _yoyo aware to omoi-keri_, the narrative is retrieved back into the internal storyline, and the point at which the emotional state is established is definitively situated.
 
+![fig1](./2025-12-21-ise-96-03-kemu-keri-en-fig01.svg)
+
+<!--
 ```dot
 digraph Ise96_TwoLayer_Sys12 {
   rankdir=TB;
@@ -106,6 +109,7 @@ digraph Ise96_TwoLayer_Sys12 {
   C1 -> S1 [style=dotted, arrowhead=none];
 }
 ```
+-->
 
 **Figure 1.** Two-layer narrative chain and reference to processing modes in Section 96 of _Ise Monogatari_
 
