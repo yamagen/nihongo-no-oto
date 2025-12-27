@@ -1,0 +1,46 @@
+digraph IG_AG_System {
+    rankdir=TB;
+    node [shape=box, style=rounded, fontsize=10];
+
+    # System 1 cluster
+    subgraph cluster_sys1 {
+        label="System 1（直観・即応）";
+        style=filled;
+        color="#FFF0CC";
+
+        IG1[label="IG: 瞬時反応"];
+        IG2[label="IG: 矛盾の許容"];
+        IG3[label="IG: 呼吸・流れ優先"];
+        IG4[label="IG: 温度調整（意味より調和）"];
+
+        IG1 -> IG2 -> IG3 -> IG4;
+    }
+
+    # System 2 cluster
+    subgraph cluster_sys2 {
+        label="System 2（推論・統合）";
+        style=filled;
+        color="#CCE0FF";
+
+        AG1[label="AG: 文脈保持"];
+        AG2[label="AG: 整合性の確保"];
+        AG3[label="AG: 構造化・説明"];
+        AG4[label="AG: 理解可能性の調整"];
+
+        AG1 -> AG2 -> AG3 -> AG4;
+    }
+
+    # IG1 と AG1 を同じ高さに揃える（安全な方法）
+    IG1 -> AG1 [style=invis, weight=10];
+
+    # Purpose
+    subgraph cluster_goal {
+        label="共通目的：相手を持ち上げる（対人的調和）";
+        style=dashed;
+        goal[label="対人的調和の実現"];
+    }
+
+    # Connections
+    IG4 -> goal [label="IG 経由（System 1 的）"];
+    AG4 -> goal [label="AG 経由（System 2 的）"];
+}

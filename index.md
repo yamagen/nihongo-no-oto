@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/12/22-17:49:49.
+Last change: 2025/12/27-12:34:20.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -9,6 +9,10 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 ## 📅 Entries
 
 <prettier-ignore>
+
+- No.54, 2025-12-26: Revisiting Immediate Utterance Expressions in Modern Japanese: Continuity with Classical Japanese Kakarimusubi
+  [EN](2025/2025-12-26-kakarimusubi-en.md)
+  [JA](2025/2025-12-26-kakarimusubi-ja.md)
 
 - No.53, 2025-12-22: Immediate Understanding to Polysemous Appreciation: Meaning Comprehension as a Process
   [EN](2025/2025-12-22-title-and-pun-en.md)

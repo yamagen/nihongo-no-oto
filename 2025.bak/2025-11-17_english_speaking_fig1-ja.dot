@@ -1,0 +1,42 @@
+
+digraph PGM {
+    graph [
+        fontsize=14,
+        labelloc="t",
+        label="Process Grammar Model: Two-Layer Structure"
+    ];
+
+    node [shape=box, style=filled, fillcolor="#F2F2F2", fontsize=12];
+
+    // Layers
+    subgraph cluster_immediate {
+        label="Immediate Grammar (System 1)";
+        style=filled;
+        color="#CDE7FF";
+        node [fillcolor="#FFFFFF"];
+
+        IG1 [label="瞬時の反応\n(one-beat utterances)"];
+        IG2 [label="省略 (ellipsis)・弱化 (reduction)"];
+        IG3 [label="chunk の使用\n(I'm good / I know / Check it out)"];
+        IG4 [label="prosody（強勢・リズム・イントネーション）"];
+        IG5 [label="対話性（turn-taking の促進）"];
+    }
+
+    subgraph cluster_adjustive {
+        label="Adjustive Grammar (System 2)";
+        style=filled;
+        color="#FFE7CD";
+        node [fillcolor="#FFFFFF"];
+
+        AG1 [label="文法的完全性\n(完全文構築)"];
+        AG2 [label="論理的構造化\n(従属節・関係詞など)"];
+        AG3 [label="正確な時制・相の選択"];
+        AG4 [label="文脈に応じた意味調整"];
+        AG5 [label="書き言葉的構文の再生"];
+    }
+
+    // Relationship arrows
+    IG1 -> AG1 [label="影響", fontsize=11];
+    IG3 -> AG2 [label="補完", fontsize=11];
+    AG4 -> IG5 [label="制約", fontsize=11];
+}
