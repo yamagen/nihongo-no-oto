@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2025/12/27-12:34:20.
+Last change: 2025/12/27-12:36:53.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -10,7 +10,7 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 
 <prettier-ignore>
 
-- No.54, 2025-12-26: Revisiting Immediate Utterance Expressions in Modern Japanese: Continuity with Classical Japanese Kakarimusubi
+- No.54, 2025-12-26: Revisiting Immediate Utterance Expressions in Modern Japanese
   [EN](2025/2025-12-26-kakarimusubi-en.md)
   [JA](2025/2025-12-26-kakarimusubi-ja.md)
 
