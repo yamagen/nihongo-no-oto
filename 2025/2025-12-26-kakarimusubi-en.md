@@ -59,7 +59,7 @@ This perspective also has implications for Japanese language education. While gr
 
 From this viewpoint, _kakarimusubi_ should not be confined to the past as a closed grammatical phenomenon, but re-situated as an immediate principle of utterance production. Making this principle visible again has the potential to offer new perspectives not only for the study of classical Japanese, but also for the analysis of modern Japanese and for descriptions used in Japanese language education.
 
-## 7. Conclusion
+## 4. Conclusion
 
 This paper has reexamined the traditional view of _kakarimusubi_ as a grammatical phenomenon that disappeared in the history of Japanese, and has proposed instead that it be understood in terms of continuity in principles of utterance production. _Kakarimusubi_ is not a rule governing specific inflectional forms, but an operation that holds predication open and directs it toward subsequent development or interlocutor response.
 
