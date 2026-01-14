@@ -1,5 +1,7 @@
 # 世界知識の骨格
 
+<!-- Dropbox/pub/nihongo-no-oto/2025/2025-12-11-frame-of-world-ja.md -->
+
 Last updated: 2025/12/11-09:38:18
 
 ## 世界知識の骨格：全体構造図
