@@ -1,0 +1,25 @@
+
+digraph PGM_LLM {
+    rankdir=LR;
+    
+    LLM [label="LLM responses"];
+    TwoStyles [label="two response styles"];
+    
+    FastSlow [label="fast / slow processing"];
+    
+    PGM [label="Process Grammar Model"];
+    IG [label="Immediate Grammar"];
+    AG [label="Adjustive Grammar"];
+    
+    Time [label="time width"];
+    
+    LLM -> TwoStyles;
+    TwoStyles -> FastSlow;
+    TwoStyles -> PGM;
+    
+    PGM -> IG;
+    PGM -> AG;
+    
+    IG -> Time [label="short"];
+    AG -> Time [label="long"];
+}
