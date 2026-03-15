@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2026/01/14-18:26:07.
+Last change: 2026/03/15-15:56:04.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -9,6 +9,10 @@ Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expres
 ## 📅 Entries
 
 <prettier-ignore>
+
+- No.56, 2026-03-15: "Two Modes of Language Use Observed in LLM Responses"
+  [EN](2026/2026-03-14-llm-responses-en.md)
+  [JA](2026/2026-03-14-llm-responses-ja.md)
 
 - No.55, 2026-01-05: "Saying 'I'm Worrying' While Not Actually Worrying"
   [EN](2026/2026-01-05-mulling-over-en.md)
