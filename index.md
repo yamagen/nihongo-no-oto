@@ -1,6 +1,6 @@
 # Nihongo Notes – Sounds of Japanese
 
-Last change: 2026/03/16-19:14:39.
+Last change: 2026/03/16-19:58:02.
 
 Welcome to Nihongo Notes, a bilingual notebook of reflections on Japanese expressions, grammar, and teaching.
 
@@ -12,7 +12,7 @@ Short notes on Japanese expressions, language use, and the Process Grammar Model
 
 <prettier-ignore>
 
-- No.57, 2026-03-14: Local Syntax and Loose Language Structure: Utterance as Phrase Chaining
+- No.57, 2026-03-16: Local Syntax and Loose Language Structure: Utterance as Phrase Chaining
   [EN](2026/2026-03-16-basic-unit-en.md)
   [JA](2026/2026-03-16-basic-unit-ja.md)
 
