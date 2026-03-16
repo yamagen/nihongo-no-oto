@@ -1,0 +1,14 @@
+
+digraph pgm_overview {
+  rankdir=TB;
+  node [shape=box];
+
+  A [label="phrase-internal syntax\n(strong syntax)"];
+  B [label="phrase chaining\n(stream of utterances)"];
+  C [label="sentence when needed\n(assertion, evaluation, etc.)"];
+  D [label="relations from fact space\n(real-world relations)"];
+
+  A -> B;
+  B -> C;
+  D -> C;
+}

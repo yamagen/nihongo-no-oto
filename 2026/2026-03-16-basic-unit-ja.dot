@@ -1,0 +1,14 @@
+
+digraph pgm_overview {
+  rankdir=TB;
+  node [shape=box];
+
+  A [label="phrase-internal syntax\n(強いシンタクス)"];
+  B [label="phrase chaining\n(発話の流れ)"];
+  C [label="sentence when needed\n(断定・評価など)"];
+  D [label="relations from fact space\n(現実空間の関係)"];
+
+  A -> B;
+  B -> C;
+  D -> C;
+}
