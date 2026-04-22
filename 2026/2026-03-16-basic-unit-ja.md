@@ -1,6 +1,8 @@
+<!-- Dropbox/pub/nihongo-no-oto/2026/2026-03-16-basic-unit-ja.md -->
+
 # 局所的シンタクスと緩い言語構造: 句連鎖としての発話
 
-Last change: 2026/03/16-19:07:46.
+Last change: 2026/03/18-14:49:38.
 
 山元啓史 (東京科学大学)
 
