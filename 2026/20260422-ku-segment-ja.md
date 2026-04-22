@@ -3,9 +3,9 @@ https://chatgpt.com/c/69e877f4-ae2c-83a9-852a-9e8cfb0b8f28
 Dropbox/pub/nihongo-no-oto/2026/20260422-ku-segment-ja.md
 -->
 
-# 和歌の「句」に近い海外の詩形はありますか？
+# 和歌の「句」に近い海外の詩形
 
-Last change: 2026/04/22-22:23:00.
+Last change: 2026/04/22-22:25:55.
 
 山元啓史, 東京科学大学
 
